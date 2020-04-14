@@ -1,6 +1,6 @@
 # Unity_Wheel_Collider_Tutoriald
 
-[Wheel Collider チュートリアル](https://docs.unity3d.com/ja/current/Manual/WheelColliderTutorial.html) のチュートリアルで紹介されているコードを利用した、非常に簡単な車のでデモです。
+[Wheel Collider チュートリアル](https://docs.unity3d.com/ja/current/Manual/WheelColliderTutorial.html) で紹介されているコードを利用した、非常に簡単な車のでデモです。
 
 ![image](Image/img.gif)
 
